@@ -1,0 +1,77 @@
+ .poster1{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    color:#CD7F32;
+    font-family: cursive;
+     font-size: rem;
+    
+  }
+  .img1{
+    border: 1px solid #8B6914;
+    width: 100%;
+  }
+  body{
+    background-color: rgb(20, 15, 15);
+  }
+
+   .poster2{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    color: #B76E79;
+    font-family: cursive;
+     
+    
+  }
+  .img2{
+    border: 3px solid #4b2c2c;
+    width: 100%;
+  }
+  body{
+    background-color: rgb(20, 15, 15);
+  }
+
+     .poster3{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    color:#7DF9;
+    font-family: cursive;
+    
+    
+  }
+  .img3{
+    border: 3px solid #000080;
+    width: 100%;
+  }
+  body{
+    background-color: rgb(20, 15, 15);
+  }
+ 
+  .poster4{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    color:#B22222;
+    font-family: cursive;
+     
+      
+    
+  }
+  .img4{
+    border: 3px solid #4B0000;
+    width: 100%;
+  }
+  body{
+    background-color: rgb(20, 15, 15);
+  }
+  h1{
+    
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+  p{
+    font-family: cursive;
+    font-size: 2rem;
+  }
